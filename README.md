@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+## I am a software developer, occasional blogger, author of [Apache Maven Cookbook](https://www.amazon.com/Apache-Maven-Cookbook-Raghuram-Bharathan/dp/1785286129), co-founder of [Innoventes Technologies](https://www.innoventestech.com)
+
+### Helping organizations to build web and mobile apps and products in technologies like ReactJS, NodeJS, Ionic framework, SpringBoot
 
 <!--
 **maruhgar/maruhgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
